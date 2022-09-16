@@ -1,5 +1,5 @@
 #include "hts_utilities.h"
-#include <cram/cram.h>
+#include <htslib/cram.h>
 #include <htslib/bgzf.h>
 #include <htslib/hfile.h>
 #include <R_ext/Error.h>
